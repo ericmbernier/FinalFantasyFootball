@@ -28,8 +28,7 @@
    - [Missing Teams](#missing-teams)
 - [Misc](#section-xii---misc)
 - [Ammendments](#section-xiii---ammendments)
-<br>
-<br>
+
 
 ## __Section I - League Governence__ ##
 
@@ -37,32 +36,25 @@
 __Eric Bernier__
 > Sleeper: @eburn
 
-<br>
 
 ### Commissioner Site Powers ###
 - The commissioner has the ability (ONLY in situations deemed appropriate) to edit lineups (either current or past), add/drop players, force/veto trades, and edit game scores. Additionally the commissioner can pause/resume the draft and set/remove draft picks for teams. 
-<br>
 
 ### Dispute Arbitration ###
 - The commissioner is the final authority on all league matters, excluding disputes with a clear conflict of interest. In situations where a league vote is put forth and the outcome is a tie the commissioner will always have the tiebreaking vote. If the commissioner is involved in a dispute it is up to the league to settle matters accordingly. 
-<br>
 
 ### Rule Changes ###
 #### Nomination ####
 - In order to nominate a rule change, simply propose such change via the league chat on Sleeper. If the change gets endorsed (by adding an emoji showing your affirmation) by 2 additional league members it will be on the docket for the end of year voting.
 #### End of Year Voting / Passing A Rule ####
 - Upon each season's end we will vote on any nominated proposals. A rule needs 7/10 yes votes for it to pass. There are no exceptions.
-<br>
 
 ### Collusion ###
 **Collusion will not be tolerated. A trade will ONLY be vetoed if there is EXTREMELY evident collusion and the guilty teams will be removed from the league and forfeit any dues paid. Colluders will not be given infractions, and will be immediately removed.**
 
-<br>
-
 ### Tanking ###
 -Tanking is not tolerated. Trading all of your players away so that your roster is worse, netting you better picks is not considered tanking. Arguments such as "it is my money and I can do what I want with it" does not carry water, as your actions affect other league members and what happens with their money. If a team is expected to be purposely tanking the team owner   will receive a warning the first time, followed by loss of a 1st round draft pick, and lastly removal from the league and forfeiture of buyin(s).
 
-<br><br>
 
 ## __Section II - League Dues__ ##
 
@@ -77,14 +69,12 @@ __Eric Bernier__
 ### Penalties ###
 If a team does not pay their dues by the designated payment date then they are not eligible to participate in the draft (startup or rookie). It will be the commissioner's decision on whether or not to grant an extension.
 
-<br><br>
 
 ## __Section III - Payout__ ##
 - 1st Place: $200 (8 buy-ins)
 - 2nd Place: $75 (3 buy-ins%)
 - 3rd Place: $25 (1 buy-in%)
 
-<br><br>
 
 ## __Section IV - Rosters__ ##
 
@@ -114,6 +104,7 @@ If a team does not pay their dues by the designated payment date then they are n
    Taxi Squad | 3 | 1st-year players only
    IR | 2 | No Limit
 
+
 ## __Section V - Free Agency & Trading__ ##
 
 ### Free Agency ###
@@ -133,15 +124,14 @@ If a team does not pay their dues by the designated payment date then they are n
 - The trade deadline is week 12. All rosters lock week 13, a week before the start of the post-season. 
 - You must pay any years' fees for any draft picks you trade. If you trade for/away draft pick for the 2022 season then you must have paid the league dues for the 2022 season.
 
-<br><br>
 
 ## __Section VI - Startup Draft__ ##
 - Snake format (1st to 10th then 10th to 1st).
+- The draft will start with a randomized lottery, listing the teams 1-->10. The first team has first choice of where they want to draft in the startup draft. They can pick any of the available ten draft spots. This process repeats until all teams have chosen an available draft spot.
 - Each day the draft will last from 8AM to 11PM EST with each team having 4 hours per pick.
 - Trading draft picks is allowed during the startup draft.
 - If a team misses their pick the best available player based on [these rankings](https://www.fantasypros.com/nfl/rankings/dynasty-overall.php) will be taken for them.
 
-<br><br>
 
 ## __Section VII - Rookie Draft__ ##
 
@@ -160,7 +150,6 @@ If a team does not pay their dues by the designated payment date then they are n
 
 __Any undrafted rookie will be treated as a common FA. If they are unavailable in the database you must message the commissioner to claim them and leave a spot open on your roster once they confirm your request. If no spot is open when the player becomes available then there will be no priority given to the team that claimed them__
 
-<br><br>
 
 ## __Section VIII - Schedule__ ##
 
@@ -168,7 +157,6 @@ __Any undrafted rookie will be treated as a common FA. If they are unavailable i
 - The regular season lasts from week 1 to week 13.
 - Playoffs begin week 14, with the championship game occuring week 16.
 
-<br><br>
 
 ## __Section IX - Playoffs__ ##
 
@@ -182,7 +170,6 @@ __Any undrafted rookie will be treated as a common FA. If they are unavailable i
 - The winner of the consolation ladder will be awarded an extra pick at the end of the first round (1.11).
 - The consolation bracket has no bearing on draft order.
 
-<br><br>
 
 ## __Section X - Scoring__ ##
 
@@ -231,4 +218,3 @@ __Any undrafted rookie will be treated as a common FA. If they are unavailable i
 Thanks to ____ for the idea for this README.
 
 ## __Section XIV - Ammendments__ ##
-
