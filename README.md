@@ -112,12 +112,13 @@ If a team does not pay their dues by the designated payment date then they are n
 - The trade deadline is week 13. All rosters lock week 14, a week before the start of the post-season. 
 - You must pay any years' fees for any draft picks you trade. For example, if you trade for/away draft pick for the 2022 season then you must have paid the league dues for the 2022 season.
 
-## __Section VI - Startup Draft__ ##
+## __Section VI - Startup Draft / Startup Rookie Draft__ ##
 - Snake format (1st to 10th then 10th to 1st).
 - The draft will start with a randomized lottery, listing the teams 1-->10. The first team has first choice of where they want to draft in the startup draft. They can pick any of the available ten draft spots. This process repeats itself until all teams have chosen an available draft spot.
 - The draft will run each day, from 8AM to 11PM EST with each team having 8 hours per pick.
 - Trading draft picks is allowed during the startup draft.
 - If a team misses their pick the best available player based on [these rankings](https://www.fantasypros.com/nfl/rankings/dynasty-overall.php) will be taken for them.
+- The startup-rookie-draft will start with the inverse draft order of the startup-veteran-draft. This means pick 1.01 in the veteran draft will start the rookie draft with pick 1.10. The startup-rookie-draft will be serpentine as well.
 
 ## __Section VII - Rookie Draft__ ##
 
