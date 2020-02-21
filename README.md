@@ -1,9 +1,10 @@
-# A League Has No Name #
+# Final Fantasy Football #
 
 ## Table of Contents
 - [League Governence](#section-i---league-governence)
    - [Commissioner](#league-commissioner)
    - [Commissioner Powers](#commissioner-powers)
+   - [League Theme](#league-theme)
    - [Rule Changes](#rule-changes)
    - [Collusion](#collusion)
    - [Tanking](#tanking)
@@ -36,6 +37,9 @@ __Eric Bernier__
 ### Commissioner Powers ###
 - The commissioner has the ability (ONLY in situations deemed appropriate) to edit lineups (either current or past), add/drop players, and force/veto trades. Additionally, the commissioner can pause/resume the draft and set/remove draft picks for teams.
 - The commissioner is the final authority on all league matters, excluding disputes with a clear conflict of interest. In situations where a league vote is put forth and the outcome is a tie, the commissioner will always have the tiebreaking vote. If the commissioner is involved in a dispute it is up to the league to settle matters accordingly. 
+
+### League Theme ###
+The name of the league is Final Fantasy Football. It is a reference to the Final Fantasy video game series. To participate in the league you must name your team something video game themed. 
 
 ### Rule Changes ###
 #### Nomination ####
