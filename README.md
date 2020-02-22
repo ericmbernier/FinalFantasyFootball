@@ -106,7 +106,7 @@ If a team does not pay their dues by the designated payment date then they are n
 - Minimum bid to get a FA off waivers is $0
 - FAAB dollars are tradeable
 - There is a one day waiting period for waivers to clear
-- Free agency locks upon conclusion of the fantasy season, through the end of the rookie draft. 
+- Free agency locks upon conclusion of the fantasy season, through the end of the rookie draft. Waivers open back up once the rookie draft has concluded.
 - Daily waivers will be used throughout the season and offseason.
 - Free Agents lock at their respective gametimes and remain locked until the first round of daily waivers resolve for the week (Wednesdays). 
 
