@@ -78,7 +78,7 @@ If a team does not pay their dues by the designated payment date then they are n
    -------- |--------- | -------
    QB | 1 | No Limit
    RB | 2 | No Limit
-   WR | 3 | No Limit
+   WR | 2 | No Limit
    TE | 1 | No Limit
    FLEX (RB/WR/TE) | 2 | No Limit
    SuperFlex (QB/WR/RB/TE) | 1 | No Limit
@@ -91,7 +91,7 @@ If a team does not pay their dues by the designated payment date then they are n
    -------- |--------- | -------
    QB | 1 | No Limit
    RB | 2 | No Limit
-   WR | 3 | No Limit
+   WR | 2 | No Limit
    TE | 1 | No Limit
    FLEX (RB/WR/TE) | 2 | No Limit
    SuperFlex (QB/WR/RB/TE) | 1 | No Limit
