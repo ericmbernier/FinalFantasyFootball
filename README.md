@@ -86,7 +86,7 @@ If a team does not pay their dues by the designated payment date then they are n
    Taxi Squad | 3 | 1st-year players only
    IR | 2 | No Limit
 
-### Offseason Rosters (Post-draft Rosters)###
+### Offseason Rosters ###
    Position | Starters | Maximum
    -------- |--------- | -------
    QB | 1 | No Limit
@@ -122,7 +122,7 @@ If a team does not pay their dues by the designated payment date then they are n
 - The draft will run each day, from 8AM to 11PM EST with each team having 8 hours per pick.
 - Trading draft picks is allowed during the startup draft.
 - If a team misses their pick the best available player based on [these rankings](https://www.fantasypros.com/nfl/rankings/dynasty-overall.php) will be taken for them.
-- The startup-rookie-draft will start with the inverse draft order of the startup-veteran-draft. This means pick 1.01 in the veteran draft will start the rookie draft with pick 1.10. The startup-rookie-draft will be serpentine as well.
+- The startup-rookie-draft will start with the inverse draft order of the startup veteran-draft. This means pick 1.01 in the veteran draft will start the rookie draft with pick 1.10. The startup-rookie-draft will be serpentine as well.
 
 ## __Section VII - Rookie Draft__ ##
 
