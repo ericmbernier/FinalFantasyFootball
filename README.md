@@ -51,7 +51,7 @@ The name of the league is Final Fantasy Football. It is a reference to the Final
 **Collusion will not be tolerated. A trade will ONLY be vetoed if there is EXTREMELY evident collusion and the guilty teams will be removed from the league and forfeit any dues paid. Colluders will not be given infractions, and will be immediately removed.**
 
 ### Tanking ###
--Tanking is not tolerated. Trading players away so that your roster is objectively worse, but netting you better picks is not considered tanking. However, repeatedly setting sub-optimal rosters, players on bye week, etc will lead to investigation. Arguments such as "it is my money and I can do what I want with it" do not carry water. Your actions affect other league members and what happens with their money. If a team is expected to be purposely tanking, the team owner will receive a warning the first time, followed by loss of a 1st round draft pick, and lastly removal from the league and forfeiture of buyin(s).
+Tanking is not tolerated. Trading players away so that your roster is objectively worse, but netting you better picks is not considered tanking. However, repeatedly setting sub-optimal rosters, players on bye week, etc will lead to investigation. Arguments such as "it is my money and I can do what I want with it" do not carry water. Your actions affect other league members and what happens with their money. If a team is expected to be purposely tanking, the team owner will receive a warning the first time, followed by loss of a 1st round draft pick, and lastly removal from the league and forfeiture of buyin(s).
 
 ## __Section II - League Dues__ ##
 
@@ -102,10 +102,10 @@ If a team does not pay their dues by the designated payment date then they are n
 ## __Section V - Free Agency & Trading__ ##
 
 ### Free Agency ###
-- Each team will receive a $100 Free Agent Aquisition Budget, each season.
-- Minimum bid to get a FA off waivers is $0
-- FAAB dollars are tradeable
-- There is a one day waiting period for waivers to clear
+- Each team will receive a $100 Free Agent Aquisition Budget each season.
+- Minimum bid to get a FA off waivers is $0.
+- FAAB dollars are tradeable.
+- There is a one day waiting period for waivers to clear.
 - Free agency locks upon conclusion of the fantasy season, through the end of the rookie draft. Waivers open back up once the rookie draft has concluded.
 - Daily waivers will be used throughout the season and offseason.
 - Free Agents lock at their respective gametimes and remain locked until the first round of daily waivers resolve for the week (Wednesdays). 
@@ -119,7 +119,7 @@ If a team does not pay their dues by the designated payment date then they are n
 ## __Section VI - Startup Draft / Startup Rookie Draft__ ##
 - Snake format (1st to 10th then 10th to 1st).
 - The draft will start with a randomized lottery, listing the teams 1-->10. The first team has first choice of where they want to draft in the startup draft. They can pick any of the available ten draft spots. This process repeats itself until all teams have chosen an available draft spot.
-- The draft will run each day, from 8AM to 11PM EST with each team having 8 hours per pick.
+- The draft timer will run each day, from 8AM to 10PM EST with each team having 8 hours per pick.
 - Trading draft picks is allowed during the startup draft.
 - If a team misses their pick the best available player based on [these rankings](https://www.fantasypros.com/nfl/rankings/dynasty-overall.php) will be taken for them.
 - The startup-rookie-draft will start with the inverse draft order of the startup veteran-draft. This means pick 1.01 in the veteran draft will start the rookie draft with pick 1.10. The startup-rookie-draft will be serpentine as well.
@@ -132,12 +132,12 @@ If a team does not pay their dues by the designated payment date then they are n
 - Picks 5-10 will be assigned in inverse order of the postseason standings
 
 ### Rookie Draft Settings ###
-- There will be 3 rounds of the rookie draft.
-- The rookie draft will take place a week after the NFL draft concludes (give, or take a few days, depending on how busy everyone is.)
-- The draft will follow a linear format just like the NFL draft (1.01 has 2.01, 3.01, etc.)
-- The draft will run each day, from 8AM to 11PM EST with each team having 8 hours per pick.
-- Trading draft picks is allowed during the rookie draft
-- If a team misses their pick the best available player based on [these rankings](https://www.fantasypros.com/nfl/rankings/rookies.php) will be taken for them
+- There will be 3 rounds for the rookie draft.
+- The rookie draft will take place a week after the NFL draft concludes (give, or take a few days, depending on how busy everyone is).
+- The draft will follow a linear format just like the NFL draft (1.01 has 2.01, 3.01, etc.).
+- The draft timer will run each day, from 8AM to 10PM EST, with each team having 8 hours per pick.
+- Trading draft picks is allowed during the rookie draft.
+- If a team misses their pick the best available player based on Sleeper's ADP data.
 
 __Any undrafted rookie will be treated as a common FA. If they are unavailable in the database you must message the commissioner to claim them and leave a spot open on your roster once they confirm your request. If no spot is open when the player becomes available then there will be no priority given to the team that claimed them__
 
