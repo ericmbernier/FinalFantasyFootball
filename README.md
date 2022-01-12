@@ -128,8 +128,8 @@ If a team does not pay their dues by the designated payment date then they are n
 
 ### Rookie Draft Order ###
 - The draft order for the rookie draft will be determined based on both regular and post-season results.
-- Picks 1-4 will be assigned in inverse order of the regular season standings.
-- Picks 5-10 will be assigned in inverse order of the postseason standings
+- Picks 1-6 will be assigned in inverse order of the regular season standings.
+- Picks 7-10 will be assigned in inverse order of the postseason standings
 
 ### Rookie Draft Settings ###
 - There will be 3 rounds for the rookie draft.
